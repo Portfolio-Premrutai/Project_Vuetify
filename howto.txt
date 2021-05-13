@@ -1,0 +1,8 @@
+ก่อนติดตั้ง ต้องสร้างโปรเจค vue ก่อน
+>>>>>>>>Vuetify<<<<<
+ใช้ vuetify ในการตกแต่ง UI หน้าเว็บ 
+install : vue add vuetify
+
+root ต้องถูกหุ้มด้วย <v-app>
+<v-app-bar> / <v-tool-bar>
+<v-content> หุ้มตัวคอนเทนที่แท้จริง
