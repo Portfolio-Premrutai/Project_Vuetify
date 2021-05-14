@@ -6,3 +6,9 @@ install : vue add vuetify
 root ต้องถูกหุ้มด้วย <v-app>
 <v-app-bar> / <v-tool-bar>
 <v-content> หุ้มตัวคอนเทนที่แท้จริง
+>>>>>>>>>ใช้ Icons<<<<<<<<<<
+npm install --save material-design-icons-iconfont
+
+
+*********ถ้ามันมีปัญหาในการติดตั้งให้ลบ nodemoduleทิ้ง***********ฃ
+หลังจากนั้น npm i
